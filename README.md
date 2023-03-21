@@ -4,7 +4,7 @@
 #### To run this project, follow the steps below:
 1. Clone the repository using the following command:
     ```
-    git clone <repository_url>
+    git clone https://github.com/Kartikkumar-Anil-Mahindrakar/Maven-Spring-Boot-Hibernate-Project.git
     ```
 2. Configure the MySQL database:
 * Create a new database in MySQL using the command line or a MySQL client tool of your choice.
